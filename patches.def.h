@@ -243,7 +243,7 @@
  *
  * https://st.suckless.org/patches/netwmicon/
  */
-#define NETWMICON_PATCH 1
+#define NETWMICON_PATCH 0
 
 /* This patch sets the _NET_WM_ICON X property with an icon that is read from a farbfeld image.
  * The benefit of this patch is that you do not need an additional dependency on an external

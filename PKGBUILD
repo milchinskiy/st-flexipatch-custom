@@ -2,7 +2,7 @@
 
 pkgname=st-flexipatch
 pkgver=0.9
-pkgrel=13
+pkgrel=14
 pkgdesc="st is a simple terminal implementation for X"
 url="https://st.suckless.org/"
 arch=('i686' 'x86_64')
