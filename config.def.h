@@ -9,7 +9,7 @@ static char *font = "JetBrainsMonoNerdFontPropo-10:weight=semibold:antialias=tru
 #if FONT2_PATCH
 /* Spare fonts */
 static char *font2[] = {
-    "JetBrainsMonoNerdFontPropo-10:weight=medium:antialias=true:autohint=false",
+    "JetBrainsMonoNerdFontPropo-10:weight=semibold:antialias=true:autohint=false",
     "Noto Color Emoji-10:antialias=true:autohint=false",
 /*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
 /*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
@@ -167,7 +167,7 @@ unsigned int tabspaces = 4;
 
 #if ALPHA_PATCH
 /* bg opacity */
-float alpha = 0.9;
+float alpha = 0.95;
 #if ALPHA_GRADIENT_PATCH
 float grad_alpha = 0.54; //alpha value that'll change
 float stat_alpha = 0.46; //constant alpha value that'll get added to grad_alpha

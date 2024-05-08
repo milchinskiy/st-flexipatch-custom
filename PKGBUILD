@@ -1,8 +1,8 @@
 # Maintainer: Alexander Milchinskiy <milchinskiy@gmail.com>
 
 pkgname=st-flexipatch
-pkgver=0.9
-pkgrel=16
+pkgver=0.9.2
+pkgrel=1
 pkgdesc="st is a simple terminal implementation for X"
 url="https://st.suckless.org/"
 arch=('i686' 'x86_64')
